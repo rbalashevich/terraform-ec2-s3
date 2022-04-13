@@ -1,6 +1,6 @@
 # terraform-ec2-s3: an exercise 
 
-## What should be done
+## What should be done by these amazing .tf files?
 Using the IaC tool of your choice (CloudFormation, Terraform or cdk) write the code to create the following:
 * A VPC with a private subnet and a public subnet (see here)
 * An EC2 instance in private subnet based on ami-0a49b025fffbbdac6 (eu-central-1)
