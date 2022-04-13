@@ -22,5 +22,5 @@ Verify S3 access with write permissions by putting an object on s3 from the inst
 terraform plan -out terraform.out -var AWS_SECRET_KEY="..."
 
 ## Whom to thank? 
-Anton Weiss & Sam Meech-Ward
+HashiCorp Learn Team, Anton Weiss & Sam Meech-Ward
 
