@@ -7,7 +7,7 @@ Using the IaC tool of your choice (CloudFormation, Terraform or cdk) write the c
 * Instance type should be configurable (with t3-micro being the default)
 
 On the instance:
-* install docker using user-data at instance launch
+* Install docker using user-data at instance launch
 * Add an S3 bucket 
 * Provide a role that will grant write access to the created bucket. The role should be attached to the instance created in (1)
 
